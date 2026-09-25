@@ -89,6 +89,12 @@
     "collection_list": {
       "type": "collection-list",
       "blocks": {
+        "collection_FfyEaP": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
         "collection_1": {
           "type": "collection",
           "settings": {
@@ -109,6 +115,7 @@
         }
       },
       "block_order": [
+        "collection_FfyEaP",
         "collection_1",
         "collection_2",
         "collection_3"
