@@ -12,6 +12,21 @@
     "image_banner": {
       "type": "image-banner",
       "blocks": {
+        "heading_YB6HqD": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em>Timeless Elegance</em>",
+            "heading_size": "h1",
+            "heading_color": ""
+          }
+        },
+        "subheading_cBgzhp": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<h4>Premium Artificial Jewellery for Every Occasion</h4>",
+            "subheading_color": ""
+          }
+        },
         "buttons": {
           "type": "buttons",
           "settings": {
@@ -25,18 +40,24 @@
         }
       },
       "block_order": [
+        "heading_YB6HqD",
+        "subheading_cBgzhp",
         "buttons"
+      ],
+      "custom_css": [
+        ".image-banner .banner__content {display: flex; flex-direction: column; align-items: flex-start;}",
+        ".image-banner .banner__buttons {margin-top: 20px;}"
       ],
       "settings": {
         "color_scheme": "",
-        "image_desktop": "shopify://shop_images/ChatGPT_Image_Sep_26_2026_01_35_48_AM.png",
+        "image_desktop": "shopify://shop_images/ChatGPT_Image_Sep_26_2026_01_22_21_AM.png",
         "image_height": "small",
         "image_overlay_opacity": 0,
         "full_width_desktop": true,
         "full_width_mobile": true,
         "enable_transparent_header": true,
         "transparent_header_behavior": "always",
-        "desktop_content_position": "middle-center",
+        "desktop_content_position": "middle-left",
         "desktop_content_alignment": "center",
         "show_text_box": false,
         "mobile_content_alignment": "center",
