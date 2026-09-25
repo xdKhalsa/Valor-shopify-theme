@@ -24,26 +24,6 @@
     },
     "header": {
       "type": "header",
-      "blocks": {
-        "mega_menu_VYEEBb": {
-          "type": "mega_menu",
-          "settings": {
-            "menu_item_link": "shopify://collections/oxidized-jewellery",
-            "menu_item_title": "Oxidized Jewellery",
-            "mega_menu": "",
-            "promo_badge": "",
-            "promo_heading": "",
-            "promo_text": "",
-            "promo_link": "",
-            "promo_link_label": "Shop now",
-            "promo_product": "",
-            "promo_collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "mega_menu_VYEEBb"
-      ],
       "settings": {
         "color_scheme": "",
         "logo_position": "center",

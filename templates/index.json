@@ -17,14 +17,14 @@
           "settings": {
             "heading": "<em>Timeless Elegance</em>",
             "heading_size": "h1",
-            "heading_color": "#2B211C"
+            "heading_color": "#2b211c"
           }
         },
         "subheading_cBgzhp": {
           "type": "subheading",
           "settings": {
             "subheading": "<h4>Premium Artificial Jewellery for Every Occasion</h4>",
-            "subheading_color": "#2B211C"
+            "subheading_color": "#2b211c"
           }
         },
         "buttons": {
@@ -92,33 +92,40 @@
         "collection_FfyEaP": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "oxidized-jewellery"
           }
         },
         "collection_1": {
           "type": "collection",
           "settings": {
-            "collection": ""
-          }
-        },
-        "collection_2": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
+            "collection": "ad-jewellery"
           }
         },
         "collection_3": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "gold-plated-jewellery"
+          }
+        },
+        "collection_iWQAHN": {
+          "type": "collection",
+          "settings": {
+            "collection": "anti-tarnish-jewellery"
+          }
+        },
+        "collection_2": {
+          "type": "collection",
+          "settings": {
+            "collection": "kundan-meena-jewellery"
           }
         }
       },
       "block_order": [
         "collection_FfyEaP",
         "collection_1",
-        "collection_2",
-        "collection_3"
+        "collection_3",
+        "collection_iWQAHN",
+        "collection_2"
       ],
       "settings": {
         "color_scheme": "",
