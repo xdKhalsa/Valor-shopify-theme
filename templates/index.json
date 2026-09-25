@@ -17,14 +17,14 @@
           "settings": {
             "heading": "<em>Timeless Elegance</em>",
             "heading_size": "h1",
-            "heading_color": ""
+            "heading_color": "#2B211C"
           }
         },
         "subheading_cBgzhp": {
           "type": "subheading",
           "settings": {
             "subheading": "<h4>Premium Artificial Jewellery for Every Occasion</h4>",
-            "subheading_color": ""
+            "subheading_color": "#2B211C"
           }
         },
         "buttons": {
@@ -44,10 +44,7 @@
         "subheading_cBgzhp",
         "buttons"
       ],
-      "custom_css": [
-        ".image-banner .banner__content {display: flex; flex-direction: column; align-items: flex-start;}",
-        ".image-banner .banner__buttons {margin-top: 20px;}"
-      ],
+      "custom_css": [],
       "settings": {
         "color_scheme": "",
         "image_desktop": "shopify://shop_images/ChatGPT_Image_Sep_26_2026_01_22_21_AM.png",
