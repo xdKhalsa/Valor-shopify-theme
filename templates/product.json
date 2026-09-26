@@ -21,11 +21,15 @@
         },
         "title": {
           "type": "title",
-          "settings": {}
+          "settings": {
+            "heading_size": "medium"
+          }
         },
         "price": {
           "type": "price",
-          "settings": {}
+          "settings": {
+            "price_font_size": 24
+          }
         },
         "sku": {
           "type": "sku",
@@ -44,7 +48,9 @@
           "type": "variant_picker",
           "settings": {
             "picker_style": "pills",
-            "size_option_style": "default"
+            "size_option_style": "default",
+            "swatch_shape": "",
+            "swatch_size": 0
           }
         },
         "size_guide": {
@@ -52,13 +58,16 @@
           "settings": {
             "text": "Size guide",
             "icon": "ruler",
+            "display_style": "block",
             "content": "",
-            "display_style": "block"
+            "page": ""
           }
         },
         "quantity_selector": {
           "type": "quantity_selector",
-          "settings": {}
+          "settings": {
+            "quantity_style": ""
+          }
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -71,24 +80,30 @@
           "type": "complementary",
           "settings": {
             "heading": "Pairs well with",
-            "product_list_limit": 3
+            "product_list_limit": 3,
+            "mobile_layout": "list"
           }
         },
         "description": {
           "type": "description",
-          "settings": {}
-        },
-        "share": {
-          "type": "share",
           "settings": {
-            "share_label": "Share"
+            "display_style": "text",
+            "collapsible_heading": "Description",
+            "open_by_default": false
           }
         },
         "shipping_returns": {
           "type": "collapsible_tab",
           "settings": {
             "heading": "Shipping & Returns",
-            "content": ""
+            "content": "",
+            "page": ""
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
           }
         }
       },
@@ -108,16 +123,20 @@
         "share"
       ],
       "settings": {
+        "color_scheme": "",
         "enable_sticky_info": true,
+        "enable_sticky_add_to_cart": false,
         "media_width": "large",
         "media_position": "left",
-        "media_aspect_ratio": "square",
+        "media_aspect_ratio": "portrait",
         "media_fit": "cover",
         "image_size_mobile": "default",
         "enable_lightbox": "default",
         "show_thumbnails": "default",
         "show_arrows": "default",
-        "enable_sticky_add_to_cart": false,
+        "desktop_gallery_layout": "single",
+        "mobile_indicator": "counter",
+        "enable_color_media_grouping": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -125,6 +144,7 @@
     "related_products": {
       "type": "related-products",
       "settings": {
+        "color_scheme": "",
         "title": "You may also like",
         "heading_size": "medium",
         "heading_alignment": "left",
@@ -146,6 +166,7 @@
     "recently_viewed_products": {
       "type": "recently-viewed-products",
       "settings": {
+        "color_scheme": "",
         "title": "Recently viewed",
         "heading_size": "medium",
         "heading_alignment": "left",
@@ -165,5 +186,9 @@
       }
     }
   },
-  "order": ["main", "related_products", "recently_viewed_products"]
+  "order": [
+    "main",
+    "related_products",
+    "recently_viewed_products"
+  ]
 }
