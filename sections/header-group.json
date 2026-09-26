@@ -24,9 +24,29 @@
     },
     "header": {
       "type": "header",
+      "blocks": {
+        "mega_menu_drdgCY": {
+          "type": "mega_menu",
+          "settings": {
+            "menu_item_link": "",
+            "menu_item_title": "",
+            "mega_menu": "",
+            "promo_badge": "",
+            "promo_heading": "",
+            "promo_text": "",
+            "promo_link": "",
+            "promo_link_label": "Shop now",
+            "promo_product": "",
+            "promo_collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "mega_menu_drdgCY"
+      ],
       "settings": {
         "color_scheme": "",
-        "logo_position": "center",
+        "logo_position": "left",
         "menu": "main-menu",
         "show_menu_view_all": false,
         "customer_account_menu": "customer-account-main-menu",
