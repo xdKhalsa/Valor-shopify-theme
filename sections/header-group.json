@@ -13,6 +13,18 @@
   "sections": {
     "announcement-bar": {
       "type": "announcement-bar",
+      "blocks": {
+        "announcement_HdKpzX": {
+          "type": "announcement",
+          "settings": {
+            "text": "Free Delivery for Orders Above Rs.1999",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_HdKpzX"
+      ],
       "settings": {
         "color_scheme": "",
         "background_color": "",

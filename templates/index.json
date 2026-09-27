@@ -53,7 +53,7 @@
         "full_width_desktop": true,
         "full_width_mobile": true,
         "enable_transparent_header": true,
-        "transparent_header_behavior": "always",
+        "transparent_header_behavior": "none",
         "desktop_content_position": "middle-left",
         "desktop_content_alignment": "center",
         "show_text_box": false,
