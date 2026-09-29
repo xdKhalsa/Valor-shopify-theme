@@ -14,31 +14,31 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "link_list_Lx3TWJ": {
-          "type": "link_list",
-          "settings": {
-            "heading": "Quick links",
-            "menu": "footer"
-          }
-        },
         "menu_block": {
           "type": "link_list",
           "settings": {
             "heading": "Customer Care",
-            "menu": "footer"
+            "menu": "customer-care"
+          }
+        },
+        "link_list_kQnkXA": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Policy",
+            "menu": "legal"
           }
         },
         "text_block": {
           "type": "text",
           "settings": {
             "heading": "About us",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.</p>"
+            "subtext": "<p>Discover jewellery made for every moment. From timeless traditional styles to modern everyday pieces, we bring you a curated collection designed to add a little elegance to every look.</p>"
           }
         }
       },
       "block_order": [
-        "link_list_Lx3TWJ",
         "menu_block",
+        "link_list_kQnkXA",
         "text_block"
       ],
       "settings": {

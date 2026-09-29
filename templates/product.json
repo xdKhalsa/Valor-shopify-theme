@@ -53,16 +53,6 @@
             "swatch_size": 0
           }
         },
-        "size_guide": {
-          "type": "popup",
-          "settings": {
-            "text": "Size guide",
-            "icon": "ruler",
-            "display_style": "block",
-            "content": "",
-            "page": ""
-          }
-        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {
@@ -76,14 +66,6 @@
             "show_gift_card_recipient": true
           }
         },
-        "complementary": {
-          "type": "complementary",
-          "settings": {
-            "heading": "Pairs well with",
-            "product_list_limit": 3,
-            "mobile_layout": "list"
-          }
-        },
         "description": {
           "type": "description",
           "settings": {
@@ -92,11 +74,11 @@
             "open_by_default": false
           }
         },
-        "shipping_returns": {
+        "collapsible_tab_Q4aeiq": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Shipping & Returns",
-            "content": "",
+            "heading": "Shipping and Return",
+            "content": "<p>For full details, visit our Shipping & Delivery and Returns & Refunds pages — links are in the footer menu.<br/><br/></p>",
             "page": ""
           }
         },
@@ -114,12 +96,10 @@
         "sku",
         "inventory",
         "variant_picker",
-        "size_guide",
         "quantity_selector",
         "buy_buttons",
-        "complementary",
         "description",
-        "shipping_returns",
+        "collapsible_tab_Q4aeiq",
         "share"
       ],
       "settings": {
