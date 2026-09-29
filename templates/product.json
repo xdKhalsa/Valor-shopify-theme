@@ -87,6 +87,15 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "judge_me_reviews_review_widget_M4APLb": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
         }
       },
       "block_order": [
@@ -100,7 +109,8 @@
         "buy_buttons",
         "description",
         "collapsible_tab_Q4aeiq",
-        "share"
+        "share",
+        "judge_me_reviews_review_widget_M4APLb"
       ],
       "settings": {
         "color_scheme": "",
