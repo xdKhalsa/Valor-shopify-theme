@@ -153,8 +153,8 @@
           "settings": {
             "icon": "sparkles",
             "icon_svg": "",
-            "title": "Premium Jewellery",
-            "text": "<p>Selected for style, beauty & elegance.</p>",
+            "title": "Curated Jewellery",
+            "text": "<p>Handpicked styles for every occasion.</p>",
             "link_label": "",
             "link": ""
           }
@@ -162,10 +162,10 @@
         "column_YgtVhJ": {
           "type": "column",
           "settings": {
-            "icon": "truck",
+            "icon": "lock",
             "icon_svg": "",
-            "title": "Free Shipping",
-            "text": "<p>On all orders above ₹1,999, pan-India.</p>",
+            "title": "Secure Payments",
+            "text": "<p>Safe & convenient online payments.</p>",
             "link_label": "",
             "link": ""
           }
@@ -173,10 +173,10 @@
         "column_gqtUbT": {
           "type": "column",
           "settings": {
-            "icon": "heart",
+            "icon": "truck",
             "icon_svg": "",
-            "title": "Anti-Tarnish Collection",
-            "text": "<p>Contemporary pieces designed for lasting style.</p>",
+            "title": "Free Shipping",
+            "text": "<p>Free shipping on orders above ₹1,999.</p>",
             "link_label": "",
             "link": ""
           }
@@ -184,10 +184,21 @@
         "column_ATUGCk": {
           "type": "column",
           "settings": {
-            "icon": "package",
+            "icon": "sparkles",
             "icon_svg": "",
-            "title": "Cash on Delivery",
-            "text": "<p>Pay conveniently when your order arrives.</p>",
+            "title": "Anti-Tarnish Collection",
+            "text": "<p>Modern styles designed for lasting beauty.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_FhQJne": {
+          "type": "column",
+          "settings": {
+            "icon": "truck",
+            "icon_svg": "",
+            "title": "Pan-India Delivery",
+            "text": "<p>We deliver to every corner of India, right to your doorstep.<br/></p>",
             "link_label": "",
             "link": ""
           }
@@ -197,7 +208,8 @@
         "column_RMihEh",
         "column_YgtVhJ",
         "column_gqtUbT",
-        "column_ATUGCk"
+        "column_ATUGCk",
+        "column_FhQJne"
       ],
       "name": "Icon columns",
       "settings": {
@@ -227,7 +239,7 @@
         "text_6A9BAL": {
           "type": "text",
           "settings": {
-            "text": "<h4>✦ Anti-Tarnish Collection — Modern pieces designed to stay beautiful, wear after wear.</h4><h4>✦ Curated Designs — Handpicked styles in Kundan, Meena, American Diamond & more.</h4><h4>✦ Free Shipping — On orders above ₹1,999, pan-India.</h4><h4>✦ Cash on Delivery — Shop conveniently and pay when your order arrives.</h4><h4>✦ Accessible Luxury — Beautiful jewellery for everyday wear, celebrations & gifting.</h4>"
+            "text": "<h4>✨ Premium Jewellery — Selected for style, beauty & elegance.</h4><h4>🚚 Free Shipping — On all orders above ₹1,999, pan-India.</h4><h4>💛 Anti-Tarnish Collection — Contemporary pieces designed for lasting style.</h4><h4>🔒 Secure Payments — Shop confidently with safe and convenient online payments.</h4><h4>💎 Curated Collections — Kundan, Meena, American Diamond & more.</h4>"
           }
         },
         "buttons_hFerRR": {
