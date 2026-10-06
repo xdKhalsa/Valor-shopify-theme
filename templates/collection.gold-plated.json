@@ -67,26 +67,33 @@
     "collection_list_AER9Kk": {
       "type": "collection-list",
       "blocks": {
-        "collection_yUDCBX": {
+        "collection_jHDGr8": {
           "type": "collection",
           "settings": {
             "collection": "gold-plated-necklaces"
           }
         },
-        "collection_GCAJgg": {
+        "collection_yUDCBX": {
           "type": "collection",
           "settings": {
             "collection": "gold-plated-earrings"
           }
         },
-        "collection_ytiG3i": {
+        "collection_GCAJgg": {
           "type": "collection",
           "settings": {
             "collection": "gold-plated-rings"
           }
+        },
+        "collection_ytiG3i": {
+          "type": "collection",
+          "settings": {
+            "collection": "gold-plated-bangles"
+          }
         }
       },
       "block_order": [
+        "collection_jHDGr8",
         "collection_yUDCBX",
         "collection_GCAJgg",
         "collection_ytiG3i"
