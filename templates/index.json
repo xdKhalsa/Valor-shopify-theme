@@ -16,7 +16,7 @@
           "type": "heading",
           "settings": {
             "heading": "<em>Timeless Elegance</em>",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "heading_color": "#2b211c"
           }
         },
@@ -48,7 +48,7 @@
       "settings": {
         "color_scheme": "",
         "image_desktop": "shopify://shop_images/ChatGPT_Image_Sep_26_2026_01_22_21_AM.png",
-        "image_height": "adapt",
+        "image_height": "small",
         "image_overlay_opacity": 0,
         "full_width_desktop": true,
         "full_width_mobile": true,
