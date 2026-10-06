@@ -144,11 +144,81 @@
         "padding_top": 56,
         "padding_bottom": 56
       }
+    },
+    "icon_columns_RVfaF4": {
+      "type": "icon-columns",
+      "blocks": {
+        "column_RMihEh": {
+          "type": "column",
+          "settings": {
+            "icon": "sparkles",
+            "icon_svg": "",
+            "title": "Premium Jewellery",
+            "text": "<p>Selected for style, beauty & elegance.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_YgtVhJ": {
+          "type": "column",
+          "settings": {
+            "icon": "truck",
+            "icon_svg": "",
+            "title": "Free Shipping",
+            "text": "<p>On all orders above ₹1,999, pan-India.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_gqtUbT": {
+          "type": "column",
+          "settings": {
+            "icon": "heart",
+            "icon_svg": "",
+            "title": "Anti-Tarnish Collection",
+            "text": "<p>Contemporary pieces designed for lasting style.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ATUGCk": {
+          "type": "column",
+          "settings": {
+            "icon": "package",
+            "icon_svg": "",
+            "title": "Cash on Delivery",
+            "text": "<p>Pay conveniently when your order arrives.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_RMihEh",
+        "column_YgtVhJ",
+        "column_gqtUbT",
+        "column_ATUGCk"
+      ],
+      "name": "Icon columns",
+      "settings": {
+        "color_scheme": "",
+        "title": "",
+        "heading_size": "medium",
+        "heading_alignment": "center",
+        "icon_size": 48,
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 56,
+        "padding_bottom": 56
+      }
     }
   },
   "order": [
     "image_banner",
     "featured_collection",
-    "collection_list"
+    "collection_list",
+    "icon_columns_RVfaF4"
   ]
 }
