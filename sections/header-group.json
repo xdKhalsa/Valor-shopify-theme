@@ -63,7 +63,7 @@
         "show_menu_view_all": false,
         "customer_account_menu": "customer-account-main-menu",
         "enable_customer_avatar": true,
-        "sticky_header_type": "always",
+        "sticky_header_type": "none",
         "enable_country_selector": true,
         "enable_language_selector": true,
         "enable_search": true
