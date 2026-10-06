@@ -9,23 +9,23 @@
  */
 {
   "sections": {
-    "rich_text_VggChR": {
+    "rich_text_j8dUNY": {
       "type": "rich-text",
       "blocks": {
-        "heading_JP4Cng": {
+        "heading_Y3p3cU": {
           "type": "heading",
           "settings": {
-            "heading": "Oxidized Jewellery",
-            "heading_size": "large"
+            "heading": "AD Jewellery",
+            "heading_size": "medium"
           }
         },
-        "text_hgy3h8": {
+        "text_xymWGC": {
           "type": "text",
           "settings": {
-            "text": "<h4>Discover the timeless beauty of oxidized jewellery. From intricately crafted necklaces and earrings to bangles, rings, and anklets — each piece carries the elegance of traditional artistry with a modern edge.</h4>"
+            "text": "<p>Discover our stunning American Diamond jewellery collection. From elegant necklaces and earrings to delicate rings — each piece is crafted to bring brilliance and sophistication to every occasion.</p>"
           }
         },
-        "buttons_rX3YRG": {
+        "buttons_rwBjTx": {
           "type": "buttons",
           "settings": {
             "button_label": "",
@@ -38,9 +38,9 @@
         }
       },
       "block_order": [
-        "heading_JP4Cng",
-        "text_hgy3h8",
-        "buttons_rX3YRG"
+        "heading_Y3p3cU",
+        "text_xymWGC",
+        "buttons_rwBjTx"
       ],
       "name": "Rich text",
       "settings": {
@@ -48,133 +48,41 @@
         "desktop_content_position": "center",
         "content_alignment": "center",
         "full_width": false,
-        "padding_top": 12,
-        "padding_bottom": 12
-      }
-    },
-    "collection_list_AeCp8Q": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_GAWkdx": {
-          "type": "collection",
-          "settings": {
-            "collection": "oxidized-necklace"
-          }
-        },
-        "collection_8ndLzW": {
-          "type": "collection",
-          "settings": {
-            "collection": "oxidized-earrings"
-          }
-        },
-        "collection_N8fNPH": {
-          "type": "collection",
-          "settings": {
-            "collection": "oxidized-rings"
-          }
-        }
-      },
-      "block_order": [
-        "collection_GAWkdx",
-        "collection_8ndLzW",
-        "collection_N8fNPH"
-      ],
-      "name": "Collection list",
-      "settings": {
-        "color_scheme": "",
-        "title": "",
-        "heading_size": "medium",
-        "heading_alignment": "left",
-        "show_view_all": false,
-        "view_all_style": "secondary",
-        "image_ratio": "portrait",
-        "columns_desktop": 3,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "mobile_card_width": 65,
-        "column_gap": 16,
-        "column_gap_mobile": 12,
         "padding_top": 56,
         "padding_bottom": 56
       }
     },
-    "collection_list_CbV4rg": {
+    "collection_list_34UtJX": {
       "type": "collection-list",
       "blocks": {
-        "collection_7j3WF7": {
+        "collection_6ngrfM": {
           "type": "collection",
           "settings": {
-            "collection": "oxidized-bangles"
+            "collection": "ad-necklaces"
           }
         },
-        "collection_N3ktjt": {
+        "collection_8cwQcA": {
           "type": "collection",
           "settings": {
-            "collection": "oxidized-facelets"
+            "collection": "ad-earrings"
           }
         },
-        "collection_TC78pH": {
+        "collection_L8T4xB": {
           "type": "collection",
           "settings": {
-            "collection": "oxidized-anklets"
+            "collection": "ad-rings"
           }
         }
       },
       "block_order": [
-        "collection_7j3WF7",
-        "collection_N3ktjt",
-        "collection_TC78pH"
+        "collection_6ngrfM",
+        "collection_8cwQcA",
+        "collection_L8T4xB"
       ],
       "name": "Collection list",
       "settings": {
         "color_scheme": "",
-        "title": "",
-        "heading_size": "medium",
-        "heading_alignment": "left",
-        "show_view_all": false,
-        "view_all_style": "secondary",
-        "image_ratio": "portrait",
-        "columns_desktop": 3,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "mobile_card_width": 65,
-        "column_gap": 16,
-        "column_gap_mobile": 12,
-        "padding_top": 56,
-        "padding_bottom": 56
-      }
-    },
-    "collection_list_Uyh9gm": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_nxYPwm": {
-          "type": "collection",
-          "settings": {
-            "collection": "oxidized-hair-accessories"
-          }
-        },
-        "collection_bGRwUY": {
-          "type": "collection",
-          "settings": {
-            "collection": "oxidized-nosepins"
-          }
-        },
-        "collection_rc9fBn": {
-          "type": "collection",
-          "settings": {
-            "collection": "oxidized-toe-rings"
-          }
-        }
-      },
-      "block_order": [
-        "collection_nxYPwm",
-        "collection_bGRwUY",
-        "collection_rc9fBn"
-      ],
-      "name": "Collection list",
-      "settings": {
-        "color_scheme": "",
-        "title": "",
+        "title": "Collections",
         "heading_size": "medium",
         "heading_alignment": "left",
         "show_view_all": false,
@@ -192,9 +100,7 @@
     }
   },
   "order": [
-    "rich_text_VggChR",
-    "collection_list_AeCp8Q",
-    "collection_list_CbV4rg",
-    "collection_list_Uyh9gm"
+    "rich_text_j8dUNY",
+    "collection_list_34UtJX"
   ]
 }

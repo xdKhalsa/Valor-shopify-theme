@@ -9,23 +9,69 @@
  */
 {
   "sections": {
-    "rich_text_VggChR": {
+    "collection_list_FCEThW": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_nUbi9x": {
+          "type": "collection",
+          "settings": {
+            "collection": "kundan-necklaces"
+          }
+        },
+        "collection_9TKrcp": {
+          "type": "collection",
+          "settings": {
+            "collection": "kundan-earrings"
+          }
+        },
+        "collection_FcHpiX": {
+          "type": "collection",
+          "settings": {
+            "collection": "kundan-rings"
+          }
+        }
+      },
+      "block_order": [
+        "collection_nUbi9x",
+        "collection_9TKrcp",
+        "collection_FcHpiX"
+      ],
+      "name": "Collection list",
+      "settings": {
+        "color_scheme": "",
+        "title": "Collections",
+        "heading_size": "medium",
+        "heading_alignment": "left",
+        "show_view_all": false,
+        "view_all_style": "secondary",
+        "image_ratio": "portrait",
+        "columns_desktop": 3,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "mobile_card_width": 65,
+        "column_gap": 16,
+        "column_gap_mobile": 12,
+        "padding_top": 56,
+        "padding_bottom": 56
+      }
+    },
+    "rich_text_84imy4": {
       "type": "rich-text",
       "blocks": {
-        "heading_JP4Cng": {
+        "heading_XWLHPb": {
           "type": "heading",
           "settings": {
-            "heading": "Oxidized Jewellery",
-            "heading_size": "large"
+            "heading": "Kundan Meena Jewellery",
+            "heading_size": "medium"
           }
         },
-        "text_hgy3h8": {
+        "text_QctGPy": {
           "type": "text",
           "settings": {
-            "text": "<h4>Discover the timeless beauty of oxidized jewellery. From intricately crafted necklaces and earrings to bangles, rings, and anklets — each piece carries the elegance of traditional artistry with a modern edge.</h4>"
+            "text": "<p>Explore the regal world of Kundan Meena jewellery. Each piece is a masterpiece of traditional craftsmanship, featuring vibrant enamel work and intricate detailing perfect for weddings, festivals, and celebrations.</p>"
           }
         },
-        "buttons_rX3YRG": {
+        "buttons_wXq8y9": {
           "type": "buttons",
           "settings": {
             "button_label": "",
@@ -38,9 +84,9 @@
         }
       },
       "block_order": [
-        "heading_JP4Cng",
-        "text_hgy3h8",
-        "buttons_rX3YRG"
+        "heading_XWLHPb",
+        "text_QctGPy",
+        "buttons_wXq8y9"
       ],
       "name": "Rich text",
       "settings": {
@@ -48,129 +94,12 @@
         "desktop_content_position": "center",
         "content_alignment": "center",
         "full_width": false,
-        "padding_top": 12,
-        "padding_bottom": 12
-      }
-    },
-    "collection_list_AeCp8Q": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_GAWkdx": {
-          "type": "collection",
-          "settings": {
-            "collection": "oxidized-necklace"
-          }
-        },
-        "collection_8ndLzW": {
-          "type": "collection",
-          "settings": {
-            "collection": "oxidized-earrings"
-          }
-        },
-        "collection_N8fNPH": {
-          "type": "collection",
-          "settings": {
-            "collection": "oxidized-rings"
-          }
-        }
-      },
-      "block_order": [
-        "collection_GAWkdx",
-        "collection_8ndLzW",
-        "collection_N8fNPH"
-      ],
-      "name": "Collection list",
-      "settings": {
-        "color_scheme": "",
-        "title": "",
-        "heading_size": "medium",
-        "heading_alignment": "left",
-        "show_view_all": false,
-        "view_all_style": "secondary",
-        "image_ratio": "portrait",
-        "columns_desktop": 3,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "mobile_card_width": 65,
-        "column_gap": 16,
-        "column_gap_mobile": 12,
-        "padding_top": 56,
-        "padding_bottom": 56
-      }
-    },
-    "collection_list_CbV4rg": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_7j3WF7": {
-          "type": "collection",
-          "settings": {
-            "collection": "oxidized-bangles"
-          }
-        },
-        "collection_N3ktjt": {
-          "type": "collection",
-          "settings": {
-            "collection": "oxidized-facelets"
-          }
-        },
-        "collection_TC78pH": {
-          "type": "collection",
-          "settings": {
-            "collection": "oxidized-anklets"
-          }
-        }
-      },
-      "block_order": [
-        "collection_7j3WF7",
-        "collection_N3ktjt",
-        "collection_TC78pH"
-      ],
-      "name": "Collection list",
-      "settings": {
-        "color_scheme": "",
-        "title": "",
-        "heading_size": "medium",
-        "heading_alignment": "left",
-        "show_view_all": false,
-        "view_all_style": "secondary",
-        "image_ratio": "portrait",
-        "columns_desktop": 3,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "mobile_card_width": 65,
-        "column_gap": 16,
-        "column_gap_mobile": 12,
         "padding_top": 56,
         "padding_bottom": 56
       }
     },
     "collection_list_Uyh9gm": {
       "type": "collection-list",
-      "blocks": {
-        "collection_nxYPwm": {
-          "type": "collection",
-          "settings": {
-            "collection": "oxidized-hair-accessories"
-          }
-        },
-        "collection_bGRwUY": {
-          "type": "collection",
-          "settings": {
-            "collection": "oxidized-nosepins"
-          }
-        },
-        "collection_rc9fBn": {
-          "type": "collection",
-          "settings": {
-            "collection": "oxidized-toe-rings"
-          }
-        }
-      },
-      "block_order": [
-        "collection_nxYPwm",
-        "collection_bGRwUY",
-        "collection_rc9fBn"
-      ],
       "name": "Collection list",
       "settings": {
         "color_scheme": "",
@@ -192,9 +121,8 @@
     }
   },
   "order": [
-    "rich_text_VggChR",
-    "collection_list_AeCp8Q",
-    "collection_list_CbV4rg",
+    "rich_text_84imy4",
+    "collection_list_FCEThW",
     "collection_list_Uyh9gm"
   ]
 }

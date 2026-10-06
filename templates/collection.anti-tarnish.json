@@ -9,23 +9,23 @@
  */
 {
   "sections": {
-    "rich_text_VggChR": {
+    "rich_text_rDwMRE": {
       "type": "rich-text",
       "blocks": {
-        "heading_JP4Cng": {
+        "heading_gdfExR": {
           "type": "heading",
           "settings": {
-            "heading": "Oxidized Jewellery",
-            "heading_size": "large"
+            "heading": "Anti-Tarnish Jewellery",
+            "heading_size": "medium"
           }
         },
-        "text_hgy3h8": {
+        "text_JcFq9x": {
           "type": "text",
           "settings": {
-            "text": "<h4>Discover the timeless beauty of oxidized jewellery. From intricately crafted necklaces and earrings to bangles, rings, and anklets — each piece carries the elegance of traditional artistry with a modern edge.</h4>"
+            "text": "<p>Discover our premium Anti-Tarnish jewellery collection. Designed to retain their shine and beauty for longer, these pieces are perfect for everyday wear — combining lasting elegance with effortless style.</p>"
           }
         },
-        "buttons_rX3YRG": {
+        "buttons_P7GewV": {
           "type": "buttons",
           "settings": {
             "button_label": "",
@@ -38,9 +38,9 @@
         }
       },
       "block_order": [
-        "heading_JP4Cng",
-        "text_hgy3h8",
-        "buttons_rX3YRG"
+        "heading_gdfExR",
+        "text_JcFq9x",
+        "buttons_P7GewV"
       ],
       "name": "Rich text",
       "settings": {
@@ -48,87 +48,41 @@
         "desktop_content_position": "center",
         "content_alignment": "center",
         "full_width": false,
-        "padding_top": 12,
-        "padding_bottom": 12
-      }
-    },
-    "collection_list_AeCp8Q": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_GAWkdx": {
-          "type": "collection",
-          "settings": {
-            "collection": "oxidized-necklace"
-          }
-        },
-        "collection_8ndLzW": {
-          "type": "collection",
-          "settings": {
-            "collection": "oxidized-earrings"
-          }
-        },
-        "collection_N8fNPH": {
-          "type": "collection",
-          "settings": {
-            "collection": "oxidized-rings"
-          }
-        }
-      },
-      "block_order": [
-        "collection_GAWkdx",
-        "collection_8ndLzW",
-        "collection_N8fNPH"
-      ],
-      "name": "Collection list",
-      "settings": {
-        "color_scheme": "",
-        "title": "",
-        "heading_size": "medium",
-        "heading_alignment": "left",
-        "show_view_all": false,
-        "view_all_style": "secondary",
-        "image_ratio": "portrait",
-        "columns_desktop": 3,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "mobile_card_width": 65,
-        "column_gap": 16,
-        "column_gap_mobile": 12,
         "padding_top": 56,
         "padding_bottom": 56
       }
     },
-    "collection_list_CbV4rg": {
+    "collection_list_QVknwm": {
       "type": "collection-list",
       "blocks": {
-        "collection_7j3WF7": {
+        "collection_gBqz6x": {
           "type": "collection",
           "settings": {
-            "collection": "oxidized-bangles"
+            "collection": "anti-tarnish-necklaces"
           }
         },
-        "collection_N3ktjt": {
+        "collection_a37tyN": {
           "type": "collection",
           "settings": {
-            "collection": "oxidized-facelets"
+            "collection": "anti-tarnish-earrings"
           }
         },
-        "collection_TC78pH": {
+        "collection_AqqNmR": {
           "type": "collection",
           "settings": {
-            "collection": "oxidized-anklets"
+            "collection": "anti-tarnish-rings"
           }
         }
       },
       "block_order": [
-        "collection_7j3WF7",
-        "collection_N3ktjt",
-        "collection_TC78pH"
+        "collection_gBqz6x",
+        "collection_a37tyN",
+        "collection_AqqNmR"
       ],
       "name": "Collection list",
       "settings": {
         "color_scheme": "",
-        "title": "",
+        "title": "Collections",
         "heading_size": "medium",
         "heading_alignment": "left",
         "show_view_all": false,
@@ -147,29 +101,29 @@
     "collection_list_Uyh9gm": {
       "type": "collection-list",
       "blocks": {
-        "collection_nxYPwm": {
+        "collection_kUxiWe": {
           "type": "collection",
           "settings": {
-            "collection": "oxidized-hair-accessories"
+            "collection": "anti-tarnish-bracelets"
           }
         },
-        "collection_bGRwUY": {
+        "collection_E6iwMX": {
           "type": "collection",
           "settings": {
-            "collection": "oxidized-nosepins"
+            "collection": "anti-tarnish-anklets"
           }
         },
-        "collection_rc9fBn": {
+        "collection_GrCQTf": {
           "type": "collection",
           "settings": {
-            "collection": "oxidized-toe-rings"
+            "collection": "anti-tarnish-sets"
           }
         }
       },
       "block_order": [
-        "collection_nxYPwm",
-        "collection_bGRwUY",
-        "collection_rc9fBn"
+        "collection_kUxiWe",
+        "collection_E6iwMX",
+        "collection_GrCQTf"
       ],
       "name": "Collection list",
       "settings": {
@@ -192,9 +146,8 @@
     }
   },
   "order": [
-    "rich_text_VggChR",
-    "collection_list_AeCp8Q",
-    "collection_list_CbV4rg",
+    "rich_text_rDwMRE",
+    "collection_list_QVknwm",
     "collection_list_Uyh9gm"
   ]
 }
