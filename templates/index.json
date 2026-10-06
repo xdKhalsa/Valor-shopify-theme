@@ -213,12 +213,56 @@
         "padding_top": 56,
         "padding_bottom": 56
       }
+    },
+    "rich_text_eg3Ckz": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Wpc8a3": {
+          "type": "heading",
+          "settings": {
+            "heading": "Why Heritage Gems?",
+            "heading_size": "large"
+          }
+        },
+        "text_6A9BAL": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>✦ Anti-Tarnish Collection — Modern pieces designed to stay beautiful, wear after wear.</h4><h4>✦ Curated Designs — Handpicked styles in Kundan, Meena, American Diamond & more.</h4><h4>✦ Free Shipping — On orders above ₹1,999, pan-India.</h4><h4>✦ Cash on Delivery — Shop conveniently and pay when your order arrives.</h4><h4>✦ Accessible Luxury — Beautiful jewellery for everyday wear, celebrations & gifting.</h4>"
+          }
+        },
+        "buttons_hFerRR": {
+          "type": "buttons",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_2": "secondary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Wpc8a3",
+        "text_6A9BAL",
+        "buttons_hFerRR"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "color_scheme": "",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": false,
+        "padding_top": 56,
+        "padding_bottom": 56
+      }
     }
   },
   "order": [
     "image_banner",
     "featured_collection",
     "collection_list",
-    "icon_columns_RVfaF4"
+    "icon_columns_RVfaF4",
+    "rich_text_eg3Ckz"
   ]
 }

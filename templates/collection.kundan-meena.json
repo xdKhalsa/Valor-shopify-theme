@@ -9,6 +9,49 @@
  */
 {
   "sections": {
+    "rich_text_84imy4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_XWLHPb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Kundan Meena Jewellery",
+            "heading_size": "large"
+          }
+        },
+        "text_QctGPy": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Explore the regal world of Kundan Meena jewellery. Each piece is a masterpiece of traditional craftsmanship, featuring vibrant enamel work and intricate detailing perfect for weddings, festivals, and celebrations.</h3>"
+          }
+        },
+        "buttons_wXq8y9": {
+          "type": "buttons",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_2": "secondary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_XWLHPb",
+        "text_QctGPy",
+        "buttons_wXq8y9"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "color_scheme": "",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": false,
+        "padding_top": 56,
+        "padding_bottom": 56
+      }
+    },
     "collection_list_FCEThW": {
       "type": "collection-list",
       "blocks": {
@@ -51,49 +94,6 @@
         "mobile_card_width": 65,
         "column_gap": 16,
         "column_gap_mobile": 12,
-        "padding_top": 56,
-        "padding_bottom": 56
-      }
-    },
-    "rich_text_84imy4": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_XWLHPb": {
-          "type": "heading",
-          "settings": {
-            "heading": "Kundan Meena Jewellery",
-            "heading_size": "medium"
-          }
-        },
-        "text_QctGPy": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Explore the regal world of Kundan Meena jewellery. Each piece is a masterpiece of traditional craftsmanship, featuring vibrant enamel work and intricate detailing perfect for weddings, festivals, and celebrations.</p>"
-          }
-        },
-        "buttons_wXq8y9": {
-          "type": "buttons",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style": "primary",
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_2": "secondary"
-          }
-        }
-      },
-      "block_order": [
-        "heading_XWLHPb",
-        "text_QctGPy",
-        "buttons_wXq8y9"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "color_scheme": "",
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "full_width": false,
         "padding_top": 56,
         "padding_bottom": 56
       }

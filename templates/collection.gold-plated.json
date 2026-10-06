@@ -16,13 +16,13 @@
           "type": "heading",
           "settings": {
             "heading": "Gold Plated Jewellery",
-            "heading_size": "medium"
+            "heading_size": "large"
           }
         },
         "text_YzGLWU": {
           "type": "text",
           "settings": {
-            "text": "<p>Explore our exquisite Gold Plated jewellery collection. Crafted with precision and elegance, each piece offers the luxurious look of gold at an accessible price — perfect for daily wear, gifting, and special occasions.</p>"
+            "text": "<h3>Explore our exquisite Gold Plated jewellery collection. Crafted with precision and elegance, each piece offers the luxurious look of gold at an accessible price — perfect for daily wear, gifting, and special occasions.</h3>"
           }
         },
         "buttons_YkUVLF": {

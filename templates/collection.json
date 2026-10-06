@@ -9,22 +9,32 @@
  */
 {
   "sections": {
-    "separator_7KVNnJ": {
-      "type": "separator",
-      "name": "Separator",
+    "collection_BpgjNJ": {
+      "type": "collection",
+      "name": "t:general.collection",
       "settings": {
-        "line_style": "solid",
-        "line_color": "",
-        "line_thickness": 1,
-        "width_mode": "container",
-        "custom_width": 50,
-        "alignment": "center",
-        "padding_top": 24,
-        "padding_bottom": 24
+        "color_scheme": "",
+        "show_collection_image": false,
+        "banner_height": "medium",
+        "show_description": true,
+        "heading_size": "large",
+        "heading_alignment": "center",
+        "body_size": "medium",
+        "body_alignment": "center",
+        "products_per_page": 24,
+        "columns_desktop": 4,
+        "columns_mobile": "2",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "enable_filtering": true,
+        "enable_sorting": true,
+        "padding_top": 20,
+        "padding_bottom": 48
       }
     }
   },
   "order": [
-    "separator_7KVNnJ"
+    "collection_BpgjNJ"
   ]
 }
