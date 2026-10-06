@@ -23,7 +23,7 @@
         "subheading_cBgzhp": {
           "type": "subheading",
           "settings": {
-            "subheading": "<h4>Premium Artificial Jewellery for Every Occasion</h4>",
+            "subheading": "<h5>Premium Artificial Jewellery for Every Occasion</h5>",
             "subheading_color": "#2b211c"
           }
         },
@@ -58,7 +58,7 @@
         "desktop_content_alignment": "center",
         "show_text_box": false,
         "mobile_content_alignment": "center",
-        "show_text_below": false
+        "show_text_below": true
       }
     },
     "featured_collection": {
