@@ -16,14 +16,14 @@
           "type": "heading",
           "settings": {
             "heading": "<em>Timeless Elegance</em>",
-            "heading_size": "h2",
+            "heading_size": "h1",
             "heading_color": "#2b211c"
           }
         },
         "subheading_cBgzhp": {
           "type": "subheading",
           "settings": {
-            "subheading": "<h5>Premium Artificial Jewellery for Every Occasion</h5>",
+            "subheading": "<h3>Premium Artificial Jewellery for Every Occasion</h3>",
             "subheading_color": "#2b211c"
           }
         },
