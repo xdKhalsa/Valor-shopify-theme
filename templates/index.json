@@ -62,30 +62,33 @@
         "show_text_below": true
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "color_scheme": "",
-        "title": "Featured products",
-        "heading_size": "medium",
-        "heading_alignment": "left",
-        "collection": "all",
-        "products_to_show": 8,
-        "show_view_all": true,
-        "view_all_style": "secondary",
-        "full_width": false,
-        "image_ratio": "portrait",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "columns_desktop": 4,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "mobile_card_width": 70,
-        "column_gap": 16,
-        "column_gap_mobile": 12,
-        "padding_top": 56,
-        "padding_bottom": 56
-      }
+    "179431176324eab625": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_165daf7_PKEmJC": {
+          "type": "ai_gen_block_165daf7",
+          "settings": {
+            "collection_oxidized": "",
+            "collection_gold": "",
+            "collection_style_three": "",
+            "collection_style_four": "",
+            "heading": "Featured jewellery",
+            "heading_font": "work_sans_n6",
+            "heading_size": 30,
+            "heading_alignment": "center",
+            "heading_color": "#333333",
+            "product_count": 8,
+            "desktop_width_percent": 100,
+            "columns_desktop": 4,
+            "columns_mobile": "2"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_165daf7_PKEmJC"
+      ],
+      "settings": {}
     },
     "collection_list": {
       "type": "collection-list",
@@ -177,7 +180,7 @@
             "icon": "truck",
             "icon_svg": "",
             "title": "Free Shipping",
-            "text": "<p>Free shipping on orders above ₹1,999.</p>",
+            "text": "<p>Free shipping on orders above ₹999.</p>",
             "link_label": "",
             "link": ""
           }
@@ -273,7 +276,7 @@
   },
   "order": [
     "image_banner",
-    "featured_collection",
+    "179431176324eab625",
     "collection_list",
     "icon_columns_RVfaF4",
     "rich_text_eg3Ckz"
