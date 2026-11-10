@@ -13,6 +13,9 @@
     "logo_height": 80,
     "logo_height_mobile": 60,
     "show_color_swatches": false,
+    "social_instagram_url": "https://www.instagram.com/heritagegems.in/",
+    "social_facebook_url": "https://www.facebook.com/profile.php?id=61595750181336",
+    "social_pinterest_url": "https://www.pinterest.com/xdKhalsa/",
     "sections": {
       "cart-drawer": {
         "type": "cart-drawer",
