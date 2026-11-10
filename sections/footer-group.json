@@ -48,7 +48,7 @@
         "enable_follow_on_shop": true,
         "show_social": true,
         "social_heading": "",
-        "social_icon_size": "medium",
+        "social_icon_size": "large",
         "enable_country_selector": true,
         "enable_language_selector": true,
         "payment_enable": true,
