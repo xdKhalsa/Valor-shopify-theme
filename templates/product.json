@@ -77,8 +77,8 @@
         "collapsible_tab_Q4aeiq": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Shipping and Return",
-            "content": "<p>For full details, visit our Shipping & Delivery and Returns & Refunds pages — links are in the footer menu.<br/><br/></p>",
+            "heading": "🚚 Express Delivery & Easy Checkout",
+            "content": "<p>Fast Pan-India Delivery: Dispatches within 24–48 hours | Reaches your doorstep in 2–5 working days.</p><p>Seamless UPI Payment: Pay instantly with Google Pay, PhonePe, Paytm, or any UPI app.</p><p>100% Insured Shipping: Live tracking link sent straight to your WhatsApp as soon as your order leaves the warehouse</p><p>For full details, visit our Shipping & Delivery and Returns & Refunds pages — links are in the footer menu.</p>",
             "page": ""
           }
         },
@@ -120,6 +120,24 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1790675008e1a99084": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_7Vg4c3": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_7Vg4c3"
+      ],
+      "settings": {}
     },
     "related_products": {
       "type": "related-products",
@@ -164,24 +182,6 @@
         "padding_top": 56,
         "padding_bottom": 56
       }
-    },
-    "1790675008e1a99084": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_7Vg4c3": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "review_data": "sample_data",
-            "max_width": 1200,
-            "show_shop_reviews": false,
-            "empty_state": "empty_widget"
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_7Vg4c3"
-      ],
-      "settings": {}
     }
   },
   "order": [
