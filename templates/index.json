@@ -65,17 +65,27 @@
     "179431176324eab625": {
       "type": "_blocks",
       "blocks": {
+        "text_hd7YVe": {
+          "type": "text",
+          "name": "t:general.text",
+          "settings": {
+            "text": "",
+            "text_style": "valor-text--title",
+            "alignment": "left"
+          },
+          "blocks": {}
+        },
         "ai_gen_block_165daf7_PKEmJC": {
           "type": "ai_gen_block_165daf7",
           "settings": {
-            "collection_oxidized": "",
-            "collection_gold": "",
-            "collection_style_three": "",
-            "collection_style_four": "",
+            "collection_oxidized": "oxidized-rings",
+            "collection_gold": "gold-plated-necklaces",
+            "collection_style_three": "ad-necklaces",
+            "collection_style_four": "kundan-necklaces",
             "heading": "Featured jewellery",
             "heading_font": "work_sans_n6",
-            "heading_size": 30,
-            "heading_alignment": "center",
+            "heading_size": 38,
+            "heading_alignment": "left",
             "heading_color": "#333333",
             "product_count": 8,
             "desktop_width_percent": 100,
@@ -86,6 +96,7 @@
         }
       },
       "block_order": [
+        "text_hd7YVe",
         "ai_gen_block_165daf7_PKEmJC"
       ],
       "settings": {}
