@@ -14,6 +14,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_girfGj": {
+          "type": "announcement",
+          "settings": {
+            "text": "First order? Get 10% off ₹499+ with code WELCOME10",
+            "link": ""
+          }
+        },
         "announcement_HdKpzX": {
           "type": "announcement",
           "settings": {
@@ -23,6 +30,7 @@
         }
       },
       "block_order": [
+        "announcement_girfGj",
         "announcement_HdKpzX"
       ],
       "settings": {
@@ -30,7 +38,7 @@
         "background_color": "",
         "text_color": "",
         "show_separator": false,
-        "auto_rotate": false,
+        "auto_rotate": true,
         "rotate_speed": 5
       }
     },
